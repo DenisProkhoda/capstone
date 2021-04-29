@@ -1,12 +1,12 @@
 
-Introduction 
+##### Introduction 
 
 In this project I will examine two hypothesis – I want to find the connection between suicide rate and alcoholism in different countries, along with suicide rate and corruption index. I strongly believe that suicide rates are lower in countries with lower levels of corruption and alcohol consumptions. From my point of view, corruption and alcohol abuse have a detrimental effect on societal well-being, including mental health.
 I will look at number of recent national surveys that helped shed light on the relationship between alcohol and suicidal behavior. I will also analyze CPI (Corruption Perception Index) in different countries to find relationship between high suicide rate in those countries that suffer from high level of corruption.
 
 
 
-Question
+##### Question
 
 •	What are the countries with the highest suicide rate?  
 •	Is the alcohol consumption in the countries with the highest suicide rate above or below average?  
@@ -22,7 +22,7 @@ Question
 
 
 
-Technologies 
+##### Technologies 
 
 •	Python 3   
 •	Excel   
@@ -30,7 +30,7 @@ Technologies
 
 
 
-Data Sources
+##### Data Sources
 
 •	Suicide rate by country - https://apps.who.int/gho/data/node.main.MHSUICIDEASDR?lang=en  
 •	Alcohol consumption by country - https://data.oecd.org/healthrisk/alcohol-consumption.html   
