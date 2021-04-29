@@ -7,7 +7,7 @@ I will look at number of recent national surveys that helped shed light on the r
 
 
 
-## Question
+## Questions
 
 •	What are the countries with the highest suicide rate?  
 •	Is the alcohol consumption in the countries with the highest suicide rate above or below average?  
