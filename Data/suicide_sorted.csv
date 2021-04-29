@@ -1,0 +1,550 @@
+Year,Country_Code,Country,Sex,Suicide
+2015,AFG,Afghanistan,Both sexes,5.99
+2018,AFG,Afghanistan,Both sexes,5.91
+2010,AFG,Afghanistan,Both sexes,6.67
+2010,AGO,Angola,Both sexes,14.2111
+2018,AGO,Angola,Both sexes,12.3511
+2015,AGO,Angola,Both sexes,13.2696
+2018,ALB,Albania,Both sexes,3.94
+2010,ALB,Albania,Both sexes,7.63
+2015,ALB,Albania,Both sexes,4.23
+2018,ARE,United Arab Emirates,Both sexes,5.01
+2010,ARE,United Arab Emirates,Both sexes,6.42
+2015,ARE,United Arab Emirates,Both sexes,5.25
+2015,ARG,Argentina,Both sexes,8.1
+2018,ARG,Argentina,Both sexes,8.99
+2010,ARG,Argentina,Both sexes,8.43
+2010,ARM,Armenia,Both sexes,5.86
+2015,ARM,Armenia,Both sexes,4.7
+2018,ARM,Armenia,Both sexes,1.65
+2018,ATG,Antigua and Barbuda,Both sexes,0.323
+2015,ATG,Antigua and Barbuda,Both sexes,0.419
+2010,ATG,Antigua and Barbuda,Both sexes,0.131
+2018,AUS,Australia,Both sexes,11.2611
+2015,AUS,Australia,Both sexes,11.8127
+2010,AUS,Australia,Both sexes,10.4083
+2015,AUT,Austria,Both sexes,11.3898
+2018,AUT,Austria,Both sexes,11.188
+2010,AUT,Austria,Both sexes,12.2086
+2010,AZE,Azerbaijan,Both sexes,4.53
+2015,AZE,Azerbaijan,Both sexes,3.99
+2018,AZE,Azerbaijan,Both sexes,3.92
+2018,BDI,Burundi,Both sexes,12.313
+2010,BDI,Burundi,Both sexes,14.9155
+2015,BDI,Burundi,Both sexes,12.7543
+2010,BEL,Belgium,Both sexes,16.517
+2015,BEL,Belgium,Both sexes,14.4114
+2018,BEL,Belgium,Both sexes,14.3193
+2018,BEN,Benin,Both sexes,12.9745
+2010,BEN,Benin,Both sexes,14.1401
+2015,BEN,Benin,Both sexes,13.3759
+2010,BFA,Burkina Faso,Both sexes,15.818
+2018,BFA,Burkina Faso,Both sexes,14.6829
+2015,BFA,Burkina Faso,Both sexes,15.4435
+2015,BGD,Bangladesh,Both sexes,3.64
+2018,BGD,Bangladesh,Both sexes,3.75
+2010,BGD,Bangladesh,Both sexes,4.82
+2018,BGR,Bulgaria,Both sexes,6.6
+2010,BGR,Bulgaria,Both sexes,8.45
+2015,BGR,Bulgaria,Both sexes,6.77
+2018,BHR,Bahrain,Both sexes,7.04
+2010,BHR,Bahrain,Both sexes,7.16
+2015,BHR,Bahrain,Both sexes,6.32
+2015,BHS,Bahamas,Both sexes,3.42
+2018,BHS,Bahamas,Both sexes,3.4
+2010,BHS,Bahamas,Both sexes,3.66
+2015,BIH,Bosnia and Herzegovina,Both sexes,8.33
+2010,BIH,Bosnia and Herzegovina,Both sexes,8.3
+2018,BIH,Bosnia and Herzegovina,Both sexes,8.18
+2018,BLR,Belarus,Both sexes,17.9443
+2015,BLR,Belarus,Both sexes,19.5525
+2010,BLR,Belarus,Both sexes,29.8878
+2018,BLZ,Belize,Both sexes,7.16
+2015,BLZ,Belize,Both sexes,6.87
+2010,BLZ,Belize,Both sexes,8.18
+2015,BOL,Bolivia (Plurinational State of),Both sexes,7.2
+2010,BOL,Bolivia (Plurinational State of),Both sexes,7.0
+2018,BOL,Bolivia (Plurinational State of),Both sexes,6.97
+2010,BRA,Brazil,Both sexes,5.0
+2015,BRA,Brazil,Both sexes,5.6
+2018,BRA,Brazil,Both sexes,6.51
+2018,BRB,Barbados,Both sexes,0.313
+2015,BRB,Barbados,Both sexes,0.313
+2010,BRB,Barbados,Both sexes,1.22
+2018,BRN,Brunei Darussalam,Both sexes,3.04
+2015,BRN,Brunei Darussalam,Both sexes,1.63
+2010,BRN,Brunei Darussalam,Both sexes,1.14
+2018,BTN,Bhutan,Both sexes,5.11
+2015,BTN,Bhutan,Both sexes,5.16
+2010,BTN,Bhutan,Both sexes,5.24
+2010,BWA,Botswana,Both sexes,31.1989
+2015,BWA,Botswana,Both sexes,24.5486
+2018,BWA,Botswana,Both sexes,22.059
+2018,CAF,Central African Republic,Both sexes,23.6493
+2010,CAF,Central African Republic,Both sexes,28.1199
+2015,CAF,Central African Republic,Both sexes,26.3075
+2018,CAN,Canada,Both sexes,10.4952
+2015,CAN,Canada,Both sexes,11.1557
+2010,CAN,Canada,Both sexes,10.2561
+2015,CHE,Switzerland,Both sexes,10.5012
+2010,CHE,Switzerland,Both sexes,10.5405
+2018,CHE,Switzerland,Both sexes,9.88
+2010,CHL,Chile,Both sexes,11.0055
+2015,CHL,Chile,Both sexes,9.17
+2018,CHL,Chile,Both sexes,7.96
+2010,CHN,China,Both sexes,9.59
+2015,CHN,China,Both sexes,7.08
+2018,CHN,China,Both sexes,6.81
+2015,CIV,Côte d'Ivoire,Both sexes,17.7148
+2018,CIV,Côte d'Ivoire,Both sexes,15.929
+2010,CIV,Côte d'Ivoire,Both sexes,20.0145
+2018,CMR,Cameroon,Both sexes,15.9267
+2015,CMR,Cameroon,Both sexes,17.0898
+2010,CMR,Cameroon,Both sexes,19.5067
+2010,COD,Democratic Republic of the Congo,Both sexes,13.4972
+2018,COD,Democratic Republic of the Congo,Both sexes,12.394
+2015,COD,Democratic Republic of the Congo,Both sexes,12.2673
+2010,COG,Congo,Both sexes,15.7899
+2018,COG,Congo,Both sexes,11.63
+2015,COG,Congo,Both sexes,12.4629
+2015,COL,Colombia,Both sexes,4.04
+2018,COL,Colombia,Both sexes,3.87
+2010,COL,Colombia,Both sexes,3.85
+2010,COM,Comoros,Both sexes,9.01
+2015,COM,Comoros,Both sexes,8.8
+2018,COM,Comoros,Both sexes,8.48
+2018,CPV,Cabo Verde,Both sexes,15.955
+2010,CPV,Cabo Verde,Both sexes,18.4415
+2015,CPV,Cabo Verde,Both sexes,16.7314
+2015,CRI,Costa Rica,Both sexes,6.41
+2010,CRI,Costa Rica,Both sexes,6.76
+2018,CRI,Costa Rica,Both sexes,6.79
+2010,CUB,Cuba,Both sexes,11.4454
+2018,CUB,Cuba,Both sexes,10.169
+2015,CUB,Cuba,Both sexes,10.3608
+2018,CYP,Cyprus,Both sexes,3.64
+2015,CYP,Cyprus,Both sexes,4.17
+2010,CYP,Cyprus,Both sexes,4.63
+2015,CZE,Czechia,Both sexes,10.492
+2018,CZE,Czechia,Both sexes,10.8278
+2010,CZE,Czechia,Both sexes,11.926
+2018,DEU,Germany,Both sexes,8.46
+2015,DEU,Germany,Both sexes,9.0
+2010,DEU,Germany,Both sexes,9.5
+2010,DJI,Djibouti,Both sexes,11.7185
+2015,DJI,Djibouti,Both sexes,11.889
+2018,DJI,Djibouti,Both sexes,12.1704
+2010,DNK,Denmark,Both sexes,8.92
+2018,DNK,Denmark,Both sexes,8.18
+2015,DNK,Denmark,Both sexes,8.07
+2010,DOM,Dominican Republic,Both sexes,5.38
+2015,DOM,Dominican Republic,Both sexes,6.84
+2018,DOM,Dominican Republic,Both sexes,5.49
+2010,DZA,Algeria,Both sexes,3.0
+2018,DZA,Algeria,Both sexes,2.58
+2015,DZA,Algeria,Both sexes,2.72
+2018,ECU,Ecuador,Both sexes,8.12
+2015,ECU,Ecuador,Both sexes,8.88
+2010,ECU,Ecuador,Both sexes,10.1807
+2018,EGY,Egypt,Both sexes,3.37
+2015,EGY,Egypt,Both sexes,3.72
+2010,EGY,Egypt,Both sexes,3.62
+2010,ERI,Eritrea,Both sexes,20.5266
+2018,ERI,Eritrea,Both sexes,17.8386
+2015,ERI,Eritrea,Both sexes,18.6896
+2015,ESP,Spain,Both sexes,5.64
+2010,ESP,Spain,Both sexes,5.05
+2018,ESP,Spain,Both sexes,5.38
+2010,EST,Estonia,Both sexes,15.4209
+2015,EST,Estonia,Both sexes,13.3612
+2018,EST,Estonia,Both sexes,11.5565
+2018,ETH,Ethiopia,Both sexes,9.54
+2010,ETH,Ethiopia,Both sexes,13.0987
+2015,ETH,Ethiopia,Both sexes,9.98
+2018,FIN,Finland,Both sexes,14.4052
+2010,FIN,Finland,Both sexes,16.4366
+2015,FIN,Finland,Both sexes,12.1491
+2015,FJI,Fiji,Both sexes,10.0142
+2018,FJI,Fiji,Both sexes,9.72
+2010,FJI,Fiji,Both sexes,10.1216
+2018,FRA,France,Both sexes,10.0491
+2015,FRA,France,Both sexes,11.4792
+2010,FRA,France,Both sexes,13.8879
+2010,FSM,Micronesia (Federated States of),Both sexes,26.9877
+2015,FSM,Micronesia (Federated States of),Both sexes,28.3721
+2018,FSM,Micronesia (Federated States of),Both sexes,29.0654
+2015,GAB,Gabon,Both sexes,15.1732
+2018,GAB,Gabon,Both sexes,13.5608
+2010,GAB,Gabon,Both sexes,15.7736
+2015,GBR,United Kingdom of Great Britain and Northern Ireland,Both sexes,7.81
+2010,GBR,United Kingdom of Great Britain and Northern Ireland,Both sexes,6.95
+2018,GBR,United Kingdom of Great Britain and Northern Ireland,Both sexes,7.08
+2015,GEO,Georgia,Both sexes,8.79
+2018,GEO,Georgia,Both sexes,7.85
+2010,GEO,Georgia,Both sexes,6.98
+2018,GHA,Ghana,Both sexes,10.7872
+2010,GHA,Ghana,Both sexes,13.2592
+2015,GHA,Ghana,Both sexes,12.0199
+2015,GIN,Guinea,Both sexes,12.9852
+2010,GIN,Guinea,Both sexes,12.4656
+2018,GIN,Guinea,Both sexes,12.2412
+2015,GMB,Gambia,Both sexes,10.2938
+2010,GMB,Gambia,Both sexes,10.6435
+2018,GMB,Gambia,Both sexes,9.62
+2015,GNB,Guinea-Bissau,Both sexes,13.0794
+2010,GNB,Guinea-Bissau,Both sexes,15.3916
+2018,GNB,Guinea-Bissau,Both sexes,12.9008
+2018,GNQ,Equatorial Guinea,Both sexes,14.0611
+2010,GNQ,Equatorial Guinea,Both sexes,15.2741
+2015,GNQ,Equatorial Guinea,Both sexes,15.3251
+2015,GRC,Greece,Both sexes,3.78
+2018,GRC,Greece,Both sexes,3.65
+2010,GRC,Greece,Both sexes,2.72
+2015,GRD,Grenada,Both sexes,0.623
+2018,GRD,Grenada,Both sexes,0.345
+2010,GRD,Grenada,Both sexes,0.732
+2010,GTM,Guatemala,Both sexes,8.66
+2015,GTM,Guatemala,Both sexes,6.4
+2018,GTM,Guatemala,Both sexes,6.31
+2015,GUY,Guyana,Both sexes,39.2983
+2010,GUY,Guyana,Both sexes,36.3694
+2018,GUY,Guyana,Both sexes,40.4106
+2015,HND,Honduras,Both sexes,4.57
+2010,HND,Honduras,Both sexes,2.66
+2018,HND,Honduras,Both sexes,2.6
+2015,HRV,Croatia,Both sexes,12.1535
+2018,HRV,Croatia,Both sexes,11.0976
+2010,HRV,Croatia,Both sexes,13.2019
+2018,HTI,Haiti,Both sexes,11.3724
+2010,HTI,Haiti,Both sexes,13.2009
+2015,HTI,Haiti,Both sexes,11.9741
+2015,HUN,Hungary,Both sexes,14.6034
+2018,HUN,Hungary,Both sexes,12.5781
+2010,HUN,Hungary,Both sexes,19.168
+2018,IDN,Indonesia,Both sexes,2.56
+2015,IDN,Indonesia,Both sexes,2.57
+2010,IDN,Indonesia,Both sexes,2.92
+2018,IND,India,Both sexes,12.8753
+2015,IND,India,Both sexes,12.9173
+2010,IND,India,Both sexes,15.5634
+2015,IRL,Ireland,Both sexes,8.71
+2010,IRL,Ireland,Both sexes,11.1685
+2018,IRL,Ireland,Both sexes,9.17
+2015,IRN,Iran (Islamic Republic of),Both sexes,5.96
+2018,IRN,Iran (Islamic Republic of),Both sexes,5.49
+2010,IRN,Iran (Islamic Republic of),Both sexes,5.78
+2015,IRQ,Iraq,Both sexes,5.4
+2010,IRQ,Iraq,Both sexes,5.34
+2018,IRQ,Iraq,Both sexes,4.88
+2018,ISL,Iceland,Both sexes,10.118
+2010,ISL,Iceland,Both sexes,11.7934
+2015,ISL,Iceland,Both sexes,13.1691
+2018,ISR,Israel,Both sexes,5.26
+2010,ISR,Israel,Both sexes,6.56
+2015,ISR,Israel,Both sexes,4.45
+2010,ITA,Italy,Both sexes,4.82
+2018,ITA,Italy,Both sexes,4.42
+2015,ITA,Italy,Both sexes,4.83
+2015,JAM,Jamaica,Both sexes,2.17
+2010,JAM,Jamaica,Both sexes,1.97
+2018,JAM,Jamaica,Both sexes,2.21
+2010,JOR,Jordan,Both sexes,2.02
+2015,JOR,Jordan,Both sexes,1.85
+2018,JOR,Jordan,Both sexes,1.94
+2010,JPN,Japan,Both sexes,18.8135
+2018,JPN,Japan,Both sexes,13.3694
+2015,JPN,Japan,Both sexes,14.8941
+2010,KAZ,Kazakhstan,Both sexes,29.4073
+2015,KAZ,Kazakhstan,Both sexes,23.4201
+2018,KAZ,Kazakhstan,Both sexes,19.41
+2010,KEN,Kenya,Both sexes,11.8535
+2015,KEN,Kenya,Both sexes,10.6368
+2018,KEN,Kenya,Both sexes,11.0264
+2018,KGZ,Kyrgyzstan,Both sexes,8.92
+2010,KGZ,Kyrgyzstan,Both sexes,12.3903
+2015,KGZ,Kyrgyzstan,Both sexes,10.8742
+2015,KHM,Cambodia,Both sexes,5.75
+2010,KHM,Cambodia,Both sexes,6.34
+2018,KHM,Cambodia,Both sexes,5.59
+2010,KIR,Kiribati,Both sexes,32.6507
+2015,KIR,Kiribati,Both sexes,31.5882
+2018,KIR,Kiribati,Both sexes,30.271
+2015,KOR,Republic of Korea,Both sexes,21.2004
+2010,KOR,Republic of Korea,Both sexes,27.9763
+2018,KOR,Republic of Korea,Both sexes,21.272
+2010,KWT,Kuwait,Both sexes,2.43
+2018,KWT,Kuwait,Both sexes,2.56
+2015,KWT,Kuwait,Both sexes,2.4
+2010,LAO,Lao People's Democratic Republic,Both sexes,6.8
+2015,LAO,Lao People's Democratic Republic,Both sexes,6.2
+2018,LAO,Lao People's Democratic Republic,Both sexes,6.18
+2018,LBN,Lebanon,Both sexes,2.53
+2015,LBN,Lebanon,Both sexes,2.87
+2010,LBN,Lebanon,Both sexes,3.04
+2018,LBR,Liberia,Both sexes,7.42
+2015,LBR,Liberia,Both sexes,7.71
+2010,LBR,Liberia,Both sexes,8.68
+2015,LBY,Libya,Both sexes,5.48
+2018,LBY,Libya,Both sexes,5.7
+2010,LBY,Libya,Both sexes,5.44
+2015,LCA,Saint Lucia,Both sexes,7.89
+2018,LCA,Saint Lucia,Both sexes,7.06
+2010,LCA,Saint Lucia,Both sexes,7.63
+2010,LKA,Sri Lanka,Both sexes,21.8653
+2015,LKA,Sri Lanka,Both sexes,14.6994
+2018,LKA,Sri Lanka,Both sexes,13.2443
+2010,LSO,Lesotho,Both sexes,86.8905
+2018,LSO,Lesotho,Both sexes,93.0725
+2015,LSO,Lesotho,Both sexes,114.4881
+2018,LTU,Lithuania,Both sexes,21.0806
+2010,LTU,Lithuania,Both sexes,31.318
+2015,LTU,Lithuania,Both sexes,28.9273
+2015,LUX,Luxembourg,Both sexes,9.57
+2018,LUX,Luxembourg,Both sexes,8.03
+2010,LUX,Luxembourg,Both sexes,9.62
+2010,LVA,Latvia,Both sexes,18.5949
+2015,LVA,Latvia,Both sexes,17.1391
+2018,LVA,Latvia,Both sexes,14.2948
+2010,MAR,Morocco,Both sexes,9.53
+2018,MAR,Morocco,Both sexes,7.3
+2015,MAR,Morocco,Both sexes,7.63
+2015,MDA,Republic of Moldova,Both sexes,13.6824
+2018,MDA,Republic of Moldova,Both sexes,11.877
+2010,MDA,Republic of Moldova,Both sexes,17.6363
+2015,MDG,Madagascar,Both sexes,9.53
+2010,MDG,Madagascar,Both sexes,10.1782
+2018,MDG,Madagascar,Both sexes,9.24
+2015,MDV,Maldives,Both sexes,2.95
+2010,MDV,Maldives,Both sexes,3.05
+2018,MDV,Maldives,Both sexes,2.92
+2015,MEX,Mexico,Both sexes,5.6
+2018,MEX,Mexico,Both sexes,5.36
+2010,MEX,Mexico,Both sexes,4.66
+2010,MKD,North Macedonia,Both sexes,5.82
+2015,MKD,North Macedonia,Both sexes,7.28
+2018,MKD,North Macedonia,Both sexes,7.22
+2010,MLI,Mali,Both sexes,8.69
+2018,MLI,Mali,Both sexes,7.98
+2015,MLI,Mali,Both sexes,8.46
+2010,MLT,Malta,Both sexes,6.63
+2018,MLT,Malta,Both sexes,5.28
+2015,MLT,Malta,Both sexes,6.55
+2015,MMR,Myanmar,Both sexes,3.34
+2010,MMR,Myanmar,Both sexes,3.75
+2018,MMR,Myanmar,Both sexes,2.96
+2015,MNE,Montenegro,Both sexes,16.3497
+2010,MNE,Montenegro,Both sexes,16.519
+2018,MNE,Montenegro,Both sexes,16.4483
+2018,MNG,Mongolia,Both sexes,18.6733
+2010,MNG,Mongolia,Both sexes,22.3994
+2015,MNG,Mongolia,Both sexes,19.6771
+2018,MOZ,Mozambique,Both sexes,23.1854
+2010,MOZ,Mozambique,Both sexes,25.3127
+2015,MOZ,Mozambique,Both sexes,23.966
+2010,MRT,Mauritania,Both sexes,5.49
+2018,MRT,Mauritania,Both sexes,5.42
+2015,MRT,Mauritania,Both sexes,5.33
+2018,MUS,Mauritius,Both sexes,8.19
+2010,MUS,Mauritius,Both sexes,7.37
+2015,MUS,Mauritius,Both sexes,7.51
+2010,MWI,Malawi,Both sexes,16.0307
+2018,MWI,Malawi,Both sexes,11.0418
+2015,MWI,Malawi,Both sexes,12.5862
+2018,MYS,Malaysia,Both sexes,5.58
+2010,MYS,Malaysia,Both sexes,5.3
+2015,MYS,Malaysia,Both sexes,5.22
+2018,NAM,Namibia,Both sexes,13.7367
+2015,NAM,Namibia,Both sexes,16.2875
+2010,NAM,Namibia,Both sexes,17.9939
+2010,NER,Niger,Both sexes,10.3899
+2015,NER,Niger,Both sexes,10.3889
+2018,NER,Niger,Both sexes,10.1255
+2010,NGA,Nigeria,Both sexes,8.79
+2018,NGA,Nigeria,Both sexes,6.95
+2015,NGA,Nigeria,Both sexes,7.31
+2010,NIC,Nicaragua,Both sexes,5.37
+2018,NIC,Nicaragua,Both sexes,5.04
+2015,NIC,Nicaragua,Both sexes,4.47
+2010,NLD,Netherlands,Both sexes,8.06
+2018,NLD,Netherlands,Both sexes,9.09
+2015,NLD,Netherlands,Both sexes,9.31
+2015,NOR,Norway,Both sexes,10.5871
+2010,NOR,Norway,Both sexes,10.8932
+2018,NOR,Norway,Both sexes,10.1298
+2018,NPL,Nepal,Both sexes,9.69
+2010,NPL,Nepal,Both sexes,10.5211
+2015,NPL,Nepal,Both sexes,9.83
+2010,NZL,New Zealand,Both sexes,12.0214
+2018,NZL,New Zealand,Both sexes,10.6598
+2015,NZL,New Zealand,Both sexes,11.1336
+2015,OMN,Oman,Both sexes,4.7
+2010,OMN,Oman,Both sexes,6.1
+2018,OMN,Oman,Both sexes,4.37
+2010,PAK,Pakistan,Both sexes,10.1605
+2015,PAK,Pakistan,Both sexes,9.96
+2018,PAK,Pakistan,Both sexes,9.79
+2010,PAN,Panama,Both sexes,4.33
+2018,PAN,Panama,Both sexes,2.92
+2015,PAN,Panama,Both sexes,2.95
+2018,PER,Peru,Both sexes,2.74
+2015,PER,Peru,Both sexes,2.77
+2010,PER,Peru,Both sexes,3.63
+2010,PHL,Philippines,Both sexes,2.89
+2018,PHL,Philippines,Both sexes,2.58
+2015,PHL,Philippines,Both sexes,2.71
+2015,PNG,Papua New Guinea,Both sexes,3.65
+2018,PNG,Papua New Guinea,Both sexes,3.51
+2010,PNG,Papua New Guinea,Both sexes,3.29
+2015,POL,Poland,Both sexes,13.1516
+2018,POL,Poland,Both sexes,10.4013
+2010,POL,Poland,Both sexes,15.5079
+2010,PRK,Democratic People's Republic of Korea,Both sexes,9.19
+2015,PRK,Democratic People's Republic of Korea,Both sexes,9.47
+2018,PRK,Democratic People's Republic of Korea,Both sexes,8.19
+2015,PRT,Portugal,Both sexes,8.31
+2018,PRT,Portugal,Both sexes,7.5
+2010,PRT,Portugal,Both sexes,8.83
+2015,PRY,Paraguay,Both sexes,5.85
+2010,PRY,Paraguay,Both sexes,3.82
+2018,PRY,Paraguay,Both sexes,6.1
+2015,QAT,Qatar,Both sexes,4.85
+2010,QAT,Qatar,Both sexes,6.39
+2018,QAT,Qatar,Both sexes,4.61
+2015,ROU,Romania,Both sexes,9.06
+2010,ROU,Romania,Both sexes,10.7085
+2018,ROU,Romania,Both sexes,7.71
+2015,RUS,Russian Federation,Both sexes,27.8682
+2010,RUS,Russian Federation,Both sexes,33.0142
+2018,RUS,Russian Federation,Both sexes,23.403
+2015,RWA,Rwanda,Both sexes,9.89
+2010,RWA,Rwanda,Both sexes,11.5024
+2018,RWA,Rwanda,Both sexes,9.52
+2018,SAU,Saudi Arabia,Both sexes,5.57
+2010,SAU,Saudi Arabia,Both sexes,5.66
+2015,SAU,Saudi Arabia,Both sexes,5.95
+2015,SDN,Sudan,Both sexes,4.89
+2010,SDN,Sudan,Both sexes,5.15
+2018,SDN,Sudan,Both sexes,4.81
+2015,SEN,Senegal,Both sexes,11.8126
+2018,SEN,Senegal,Both sexes,11.1611
+2010,SEN,Senegal,Both sexes,12.3702
+2015,SGP,Singapore,Both sexes,7.56
+2010,SGP,Singapore,Both sexes,8.23
+2018,SGP,Singapore,Both sexes,7.76
+2010,SLB,Solomon Islands,Both sexes,18.5955
+2018,SLB,Solomon Islands,Both sexes,17.7358
+2015,SLB,Solomon Islands,Both sexes,17.9402
+2010,SLE,Sierra Leone,Both sexes,12.158
+2015,SLE,Sierra Leone,Both sexes,10.5273
+2018,SLE,Sierra Leone,Both sexes,11.1969
+2015,SLV,El Salvador,Both sexes,6.78
+2010,SLV,El Salvador,Both sexes,6.4
+2018,SLV,El Salvador,Both sexes,6.07
+2010,SOM,Somalia,Both sexes,15.3846
+2015,SOM,Somalia,Both sexes,15.026
+2018,SOM,Somalia,Both sexes,14.807
+2015,SRB,Serbia,Both sexes,11.6904
+2018,SRB,Serbia,Both sexes,7.86
+2010,SRB,Serbia,Both sexes,12.4184
+2018,SSD,South Sudan,Both sexes,6.65
+2015,SSD,South Sudan,Both sexes,6.41
+2010,SSD,South Sudan,Both sexes,6.64
+2015,STP,Sao Tome and Principe,Both sexes,2.18
+2018,STP,Sao Tome and Principe,Both sexes,2.17
+2010,STP,Sao Tome and Principe,Both sexes,2.18
+2015,SUR,Suriname,Both sexes,25.9135
+2018,SUR,Suriname,Both sexes,26.2315
+2010,SUR,Suriname,Both sexes,27.4213
+2018,SVK,Slovakia,Both sexes,9.43
+2010,SVK,Slovakia,Both sexes,11.1371
+2015,SVK,Slovakia,Both sexes,9.8
+2015,SVN,Slovenia,Both sexes,14.7524
+2010,SVN,Slovenia,Both sexes,15.5552
+2018,SVN,Slovenia,Both sexes,12.7934
+2015,SWE,Sweden,Both sexes,13.0223
+2010,SWE,Sweden,Both sexes,12.0096
+2018,SWE,Sweden,Both sexes,12.6869
+2010,SWZ,Eswatini,Both sexes,70.4886
+2018,SWZ,Eswatini,Both sexes,40.1303
+2015,SWZ,Eswatini,Both sexes,49.1945
+2018,SYC,Seychelles,Both sexes,7.87
+2015,SYC,Seychelles,Both sexes,7.65
+2010,SYC,Seychelles,Both sexes,7.42
+2010,SYR,Syrian Arab Republic,Both sexes,1.81
+2018,SYR,Syrian Arab Republic,Both sexes,2.1
+2015,SYR,Syrian Arab Republic,Both sexes,1.95
+2015,TCD,Chad,Both sexes,13.9687
+2018,TCD,Chad,Both sexes,13.5656
+2010,TCD,Chad,Both sexes,15.9656
+2010,TGO,Togo,Both sexes,18.2
+2015,TGO,Togo,Both sexes,16.6917
+2018,TGO,Togo,Both sexes,14.8774
+2018,THA,Thailand,Both sexes,7.9
+2015,THA,Thailand,Both sexes,7.15
+2010,THA,Thailand,Both sexes,7.29
+2010,TJK,Tajikistan,Both sexes,4.98
+2015,TJK,Tajikistan,Both sexes,5.19
+2018,TJK,Tajikistan,Both sexes,5.29
+2010,TKM,Turkmenistan,Both sexes,8.65
+2018,TKM,Turkmenistan,Both sexes,6.09
+2015,TKM,Turkmenistan,Both sexes,6.62
+2015,TLS,Timor-Leste,Both sexes,4.38
+2018,TLS,Timor-Leste,Both sexes,4.46
+2010,TLS,Timor-Leste,Both sexes,4.15
+2015,TON,Tonga,Both sexes,5.3
+2010,TON,Tonga,Both sexes,5.34
+2018,TON,Tonga,Both sexes,4.57
+2015,TTO,Trinidad and Tobago,Both sexes,9.54
+2010,TTO,Trinidad and Tobago,Both sexes,10.5916
+2018,TTO,Trinidad and Tobago,Both sexes,8.5
+2015,TUN,Tunisia,Both sexes,3.03
+2010,TUN,Tunisia,Both sexes,3.37
+2018,TUN,Tunisia,Both sexes,3.09
+2015,TUR,Turkey,Both sexes,2.26
+2010,TUR,Turkey,Both sexes,2.47
+2018,TUR,Turkey,Both sexes,2.25
+2015,TZA,United Republic of Tanzania,Both sexes,8.23
+2010,TZA,United Republic of Tanzania,Both sexes,9.81
+2018,TZA,United Republic of Tanzania,Both sexes,8.04
+2010,UGA,Uganda,Both sexes,14.6431
+2015,UGA,Uganda,Both sexes,11.0416
+2018,UGA,Uganda,Both sexes,10.2516
+2010,UKR,Ukraine,Both sexes,20.1696
+2018,UKR,Ukraine,Both sexes,17.9939
+2015,UKR,Ukraine,Both sexes,17.8746
+2010,URY,Uruguay,Both sexes,14.2563
+2015,URY,Uruguay,Both sexes,16.6639
+2018,URY,Uruguay,Both sexes,18.8463
+2015,USA,United States of America,Both sexes,12.8624
+2018,USA,United States of America,Both sexes,14.0916
+2010,USA,United States of America,Both sexes,11.7231
+2010,UZB,Uzbekistan,Both sexes,8.3
+2015,UZB,Uzbekistan,Both sexes,9.2
+2018,UZB,Uzbekistan,Both sexes,8.73
+2015,VCT,Saint Vincent and the Grenadines,Both sexes,3.31
+2018,VCT,Saint Vincent and the Grenadines,Both sexes,1.03
+2010,VCT,Saint Vincent and the Grenadines,Both sexes,2.88
+2018,VEN,Venezuela (Bolivarian Republic of),Both sexes,2.21
+2010,VEN,Venezuela (Bolivarian Republic of),Both sexes,3.6
+2015,VEN,Venezuela (Bolivarian Republic of),Both sexes,2.37
+2010,VNM,Viet Nam,Both sexes,7.3
+2015,VNM,Viet Nam,Both sexes,7.61
+2018,VNM,Viet Nam,Both sexes,7.37
+2018,VUT,Vanuatu,Both sexes,21.093
+2010,VUT,Vanuatu,Both sexes,22.1485
+2015,VUT,Vanuatu,Both sexes,21.1806
+2018,WSM,Samoa,Both sexes,14.7962
+2015,WSM,Samoa,Both sexes,14.9413
+2010,WSM,Samoa,Both sexes,14.8276
+2018,YEM,Yemen,Both sexes,7.09
+2015,YEM,Yemen,Both sexes,6.8
+2010,YEM,Yemen,Both sexes,7.35
+2018,ZAF,South Africa,Both sexes,24.3895
+2015,ZAF,South Africa,Both sexes,25.5519
+2010,ZAF,South Africa,Both sexes,26.9164
+2015,ZMB,Zambia,Both sexes,17.2602
+2018,ZMB,Zambia,Both sexes,15.8985
+2010,ZMB,Zambia,Both sexes,19.7074
+2010,ZWE,Zimbabwe,Both sexes,35.0142
+2018,ZWE,Zimbabwe,Both sexes,23.8676
+2015,ZWE,Zimbabwe,Both sexes,30.7352

@@ -1,0 +1,524 @@
+Entity,Code,Year,Corruption Perception Index - Transparency International (2018)
+Afghanistan,AFG,2012,8
+Afghanistan,AFG,2015,11
+Afghanistan,AFG,2018,16
+Albania,ALB,2012,33
+Albania,ALB,2015,36
+Albania,ALB,2018,36
+Algeria,DZA,2012,34
+Algeria,DZA,2015,36
+Algeria,DZA,2018,35
+Angola,AGO,2012,22
+Angola,AGO,2015,15
+Angola,AGO,2018,19
+Argentina,ARG,2012,35
+Argentina,ARG,2015,32
+Argentina,ARG,2018,40
+Armenia,ARM,2012,34
+Armenia,ARM,2015,35
+Armenia,ARM,2018,35
+Australia,AUS,2012,85
+Australia,AUS,2015,79
+Australia,AUS,2018,77
+Austria,AUT,2012,69
+Austria,AUT,2015,76
+Austria,AUT,2018,76
+Azerbaijan,AZE,2012,27
+Azerbaijan,AZE,2015,29
+Azerbaijan,AZE,2018,25
+Bahamas,BHS,2012,71
+Bahamas,BHS,2018,65
+Bahrain,BHR,2012,51
+Bahrain,BHR,2015,51
+Bahrain,BHR,2018,36
+Bangladesh,BGD,2012,26
+Bangladesh,BGD,2015,25
+Bangladesh,BGD,2018,26
+Barbados,BRB,2012,76
+Barbados,BRB,2018,68
+Belarus,BLR,2012,31
+Belarus,BLR,2015,32
+Belarus,BLR,2018,44
+Belgium,BEL,2012,75
+Belgium,BEL,2015,77
+Belgium,BEL,2018,75
+Benin,BEN,2012,36
+Benin,BEN,2015,37
+Benin,BEN,2018,40
+Bhutan,BTN,2012,63
+Bhutan,BTN,2015,65
+Bhutan,BTN,2018,68
+Bolivia,BOL,2012,34
+Bolivia,BOL,2015,34
+Bolivia,BOL,2018,29
+Bosnia and Herzegovina,BIH,2012,42
+Bosnia and Herzegovina,BIH,2015,38
+Bosnia and Herzegovina,BIH,2018,38
+Botswana,BWA,2012,65
+Botswana,BWA,2015,63
+Botswana,BWA,2018,61
+Brazil,BRA,2012,43
+Brazil,BRA,2015,38
+Brazil,BRA,2018,35
+Brunei,BRN,2012,55
+Brunei,BRN,2018,63
+Bulgaria,BGR,2012,41
+Bulgaria,BGR,2015,41
+Bulgaria,BGR,2018,42
+Burkina Faso,BFA,2012,38
+Burkina Faso,BFA,2015,38
+Burkina Faso,BFA,2018,41
+Burundi,BDI,2012,19
+Burundi,BDI,2015,21
+Burundi,BDI,2018,17
+Cambodia,KHM,2012,22
+Cambodia,KHM,2015,21
+Cambodia,KHM,2018,20
+Cameroon,CMR,2012,26
+Cameroon,CMR,2015,27
+Cameroon,CMR,2018,25
+Canada,CAN,2012,84
+Canada,CAN,2015,83
+Canada,CAN,2018,81
+Cape Verde,CPV,2012,60
+Cape Verde,CPV,2015,55
+Cape Verde,CPV,2018,57
+Central African Republic,CAF,2012,26
+Central African Republic,CAF,2015,24
+Central African Republic,CAF,2018,26
+Chad,TCD,2012,19
+Chad,TCD,2015,22
+Chad,TCD,2018,19
+Chile,CHL,2012,72
+Chile,CHL,2015,70
+Chile,CHL,2018,67
+China,CHN,2012,39
+China,CHN,2015,37
+China,CHN,2018,39
+Colombia,COL,2012,36
+Colombia,COL,2015,37
+Colombia,COL,2018,36
+Comoros,COM,2012,28
+Comoros,COM,2015,26
+Comoros,COM,2018,27
+Congo,COG,2012,26
+Congo,COG,2015,23
+Congo,COG,2018,19
+Costa Rica,CRI,2012,54
+Costa Rica,CRI,2015,55
+Costa Rica,CRI,2018,56
+Cote d'Ivoire,CIV,2012,29
+Cote d'Ivoire,CIV,2015,32
+Cote d'Ivoire,CIV,2018,35
+Croatia,HRV,2012,46
+Croatia,HRV,2015,51
+Croatia,HRV,2018,48
+Cuba,CUB,2012,48
+Cuba,CUB,2015,47
+Cuba,CUB,2018,47
+Cyprus,CYP,2012,66
+Cyprus,CYP,2015,61
+Cyprus,CYP,2018,59
+Czechia,CZE,2012,49
+Czechia,CZE,2015,56
+Czechia,CZE,2018,59
+Democratic Republic of Congo,COD,2012,21
+Democratic Republic of Congo,COD,2015,22
+Democratic Republic of Congo,COD,2018,20
+Denmark,DNK,2012,90
+Denmark,DNK,2015,91
+Denmark,DNK,2018,88
+Djibouti,DJI,2012,36
+Djibouti,DJI,2015,34
+Djibouti,DJI,2018,31
+Dominica,DMA,2012,58
+Dominica,DMA,2018,57
+Dominican Republic,DOM,2012,32
+Dominican Republic,DOM,2015,33
+Dominican Republic,DOM,2018,30
+Ecuador,ECU,2012,32
+Ecuador,ECU,2015,32
+Ecuador,ECU,2018,34
+Egypt,EGY,2012,32
+Egypt,EGY,2015,36
+Egypt,EGY,2018,35
+El Salvador,SLV,2012,38
+El Salvador,SLV,2015,39
+El Salvador,SLV,2018,35
+Equatorial Guinea,GNQ,2012,20
+Equatorial Guinea,GNQ,2018,16
+Eritrea,ERI,2012,25
+Eritrea,ERI,2015,18
+Eritrea,ERI,2018,24
+Estonia,EST,2012,64
+Estonia,EST,2015,70
+Estonia,EST,2018,73
+Eswatini,SWZ,2012,37
+Eswatini,SWZ,2018,38
+Ethiopia,ETH,2012,33
+Ethiopia,ETH,2015,33
+Ethiopia,ETH,2018,34
+Finland,FIN,2012,90
+Finland,FIN,2015,90
+Finland,FIN,2018,85
+France,FRA,2012,71
+France,FRA,2015,70
+France,FRA,2018,72
+Gabon,GAB,2012,35
+Gabon,GAB,2015,34
+Gabon,GAB,2018,31
+Gambia,GMB,2012,34
+Gambia,GMB,2015,28
+Gambia,GMB,2018,37
+Georgia,GEO,2012,52
+Georgia,GEO,2015,52
+Georgia,GEO,2018,58
+Germany,DEU,2012,79
+Germany,DEU,2015,81
+Germany,DEU,2018,80
+Ghana,GHA,2012,45
+Ghana,GHA,2015,47
+Ghana,GHA,2018,41
+Greece,GRC,2012,36
+Greece,GRC,2015,46
+Greece,GRC,2018,45
+Grenada,GRD,2018,52
+Guatemala,GTM,2012,33
+Guatemala,GTM,2015,28
+Guatemala,GTM,2018,27
+Guinea,GIN,2012,24
+Guinea,GIN,2015,25
+Guinea,GIN,2018,28
+Guinea-Bissau,GNB,2012,25
+Guinea-Bissau,GNB,2015,17
+Guinea-Bissau,GNB,2018,16
+Guyana,GUY,2012,28
+Guyana,GUY,2015,29
+Guyana,GUY,2018,37
+Haiti,HTI,2012,19
+Haiti,HTI,2015,17
+Haiti,HTI,2018,20
+Honduras,HND,2012,28
+Honduras,HND,2015,31
+Honduras,HND,2018,29
+Hong Kong,HKG,2012,77
+Hong Kong,HKG,2015,75
+Hong Kong,HKG,2018,76
+Hungary,HUN,2012,55
+Hungary,HUN,2015,51
+Hungary,HUN,2018,46
+Iceland,ISL,2012,82
+Iceland,ISL,2015,79
+Iceland,ISL,2018,76
+India,IND,2012,36
+India,IND,2015,38
+India,IND,2018,41
+Indonesia,IDN,2012,32
+Indonesia,IDN,2015,36
+Indonesia,IDN,2018,38
+Iran,IRN,2012,28
+Iran,IRN,2015,27
+Iran,IRN,2018,28
+Iraq,IRQ,2012,18
+Iraq,IRQ,2015,16
+Iraq,IRQ,2018,18
+Ireland,IRL,2012,69
+Ireland,IRL,2015,75
+Ireland,IRL,2018,73
+Israel,ISR,2012,60
+Israel,ISR,2015,61
+Israel,ISR,2018,61
+Italy,ITA,2012,42
+Italy,ITA,2015,44
+Italy,ITA,2018,52
+Jamaica,JAM,2012,38
+Jamaica,JAM,2015,41
+Jamaica,JAM,2018,44
+Japan,JPN,2012,74
+Japan,JPN,2015,75
+Japan,JPN,2018,73
+Jordan,JOR,2012,48
+Jordan,JOR,2015,53
+Jordan,JOR,2018,49
+Kazakhstan,KAZ,2012,28
+Kazakhstan,KAZ,2015,28
+Kazakhstan,KAZ,2018,31
+Kenya,KEN,2012,27
+Kenya,KEN,2015,25
+Kenya,KEN,2018,27
+Kosovo,OWID_KOS,2012,34
+Kosovo,OWID_KOS,2015,33
+Kosovo,OWID_KOS,2018,37
+Kuwait,KWT,2012,44
+Kuwait,KWT,2015,49
+Kuwait,KWT,2018,41
+Kyrgyzstan,KGZ,2012,24
+Kyrgyzstan,KGZ,2015,28
+Kyrgyzstan,KGZ,2018,29
+Laos,LAO,2012,21
+Laos,LAO,2015,25
+Laos,LAO,2018,29
+Latvia,LVA,2012,49
+Latvia,LVA,2015,56
+Latvia,LVA,2018,58
+Lebanon,LBN,2012,30
+Lebanon,LBN,2015,28
+Lebanon,LBN,2018,28
+Lesotho,LSO,2012,45
+Lesotho,LSO,2015,44
+Lesotho,LSO,2018,41
+Liberia,LBR,2012,41
+Liberia,LBR,2015,37
+Liberia,LBR,2018,32
+Libya,LBY,2012,21
+Libya,LBY,2015,16
+Libya,LBY,2018,17
+Lithuania,LTU,2012,54
+Lithuania,LTU,2015,59
+Lithuania,LTU,2018,59
+Luxembourg,LUX,2012,80
+Luxembourg,LUX,2015,85
+Luxembourg,LUX,2018,81
+Madagascar,MDG,2012,32
+Madagascar,MDG,2015,28
+Madagascar,MDG,2018,25
+Malawi,MWI,2012,37
+Malawi,MWI,2015,31
+Malawi,MWI,2018,32
+Malaysia,MYS,2012,49
+Malaysia,MYS,2015,50
+Malaysia,MYS,2018,47
+Maldives,MDV,2018,31
+Mali,MLI,2012,34
+Mali,MLI,2015,35
+Mali,MLI,2018,32
+Malta,MLT,2012,57
+Malta,MLT,2015,60
+Malta,MLT,2018,54
+Mauritania,MRT,2012,31
+Mauritania,MRT,2015,31
+Mauritania,MRT,2018,27
+Mauritius,MUS,2012,57
+Mauritius,MUS,2015,53
+Mauritius,MUS,2018,51
+Mexico,MEX,2012,34
+Mexico,MEX,2015,31
+Mexico,MEX,2018,28
+Moldova,MDA,2012,36
+Moldova,MDA,2015,33
+Moldova,MDA,2018,33
+Mongolia,MNG,2012,36
+Mongolia,MNG,2015,39
+Mongolia,MNG,2018,37
+Montenegro,MNE,2012,41
+Montenegro,MNE,2015,44
+Montenegro,MNE,2018,45
+Morocco,MAR,2012,37
+Morocco,MAR,2015,36
+Morocco,MAR,2018,43
+Mozambique,MOZ,2012,31
+Mozambique,MOZ,2015,31
+Mozambique,MOZ,2018,23
+Myanmar,MMR,2012,15
+Myanmar,MMR,2015,22
+Myanmar,MMR,2018,29
+Namibia,NAM,2012,48
+Namibia,NAM,2015,53
+Namibia,NAM,2018,53
+Nepal,NPL,2012,27
+Nepal,NPL,2015,27
+Nepal,NPL,2018,31
+Netherlands,NLD,2012,84
+Netherlands,NLD,2015,84
+Netherlands,NLD,2018,82
+New Zealand,NZL,2012,90
+New Zealand,NZL,2015,91
+New Zealand,NZL,2018,87
+Nicaragua,NIC,2012,29
+Nicaragua,NIC,2015,27
+Nicaragua,NIC,2018,25
+Niger,NER,2012,33
+Niger,NER,2015,34
+Niger,NER,2018,34
+Nigeria,NGA,2012,27
+Nigeria,NGA,2015,26
+Nigeria,NGA,2018,27
+North Korea,PRK,2012,8
+North Korea,PRK,2015,8
+North Korea,PRK,2018,14
+North Macedonia,MKD,2012,43
+North Macedonia,MKD,2015,42
+North Macedonia,MKD,2018,37
+Norway,NOR,2012,85
+Norway,NOR,2015,88
+Norway,NOR,2018,84
+Oman,OMN,2012,47
+Oman,OMN,2015,45
+Oman,OMN,2018,52
+Pakistan,PAK,2012,27
+Pakistan,PAK,2015,30
+Pakistan,PAK,2018,33
+Panama,PAN,2012,38
+Panama,PAN,2015,39
+Panama,PAN,2018,37
+Papua New Guinea,PNG,2012,25
+Papua New Guinea,PNG,2015,25
+Papua New Guinea,PNG,2018,28
+Paraguay,PRY,2012,25
+Paraguay,PRY,2015,27
+Paraguay,PRY,2018,29
+Peru,PER,2012,38
+Peru,PER,2015,36
+Peru,PER,2018,35
+Philippines,PHL,2012,34
+Philippines,PHL,2015,35
+Philippines,PHL,2018,36
+Poland,POL,2012,58
+Poland,POL,2015,63
+Poland,POL,2018,60
+Portugal,PRT,2012,63
+Portugal,PRT,2015,64
+Portugal,PRT,2018,64
+Qatar,QAT,2012,68
+Qatar,QAT,2015,71
+Qatar,QAT,2018,62
+Romania,ROU,2012,44
+Romania,ROU,2015,46
+Romania,ROU,2018,47
+Russia,RUS,2012,28
+Russia,RUS,2015,29
+Russia,RUS,2018,28
+Rwanda,RWA,2012,53
+Rwanda,RWA,2015,54
+Rwanda,RWA,2018,56
+Saint Lucia,LCA,2012,71
+Saint Lucia,LCA,2018,55
+Saint Vincent and the Grenadines,VCT,2012,62
+Saint Vincent and the Grenadines,VCT,2018,58
+Sao Tome and Principe,STP,2012,42
+Sao Tome and Principe,STP,2015,42
+Sao Tome and Principe,STP,2018,46
+Saudi Arabia,SAU,2012,44
+Saudi Arabia,SAU,2015,52
+Saudi Arabia,SAU,2018,49
+Senegal,SEN,2012,36
+Senegal,SEN,2015,44
+Senegal,SEN,2018,45
+Serbia,SRB,2012,39
+Serbia,SRB,2015,40
+Serbia,SRB,2018,39
+Seychelles,SYC,2012,52
+Seychelles,SYC,2015,55
+Seychelles,SYC,2018,66
+Sierra Leone,SLE,2012,31
+Sierra Leone,SLE,2015,29
+Sierra Leone,SLE,2018,30
+Singapore,SGP,2012,87
+Singapore,SGP,2015,85
+Singapore,SGP,2018,85
+Slovakia,SVK,2012,46
+Slovakia,SVK,2015,51
+Slovakia,SVK,2018,50
+Slovenia,SVN,2012,61
+Slovenia,SVN,2015,60
+Slovenia,SVN,2018,60
+Solomon Islands,SLB,2018,44
+Somalia,SOM,2012,8
+Somalia,SOM,2015,8
+Somalia,SOM,2018,10
+South Africa,ZAF,2012,43
+South Africa,ZAF,2015,44
+South Africa,ZAF,2018,43
+South Korea,KOR,2012,56
+South Korea,KOR,2015,54
+South Korea,KOR,2018,57
+South Sudan,SSD,2015,15
+South Sudan,SSD,2018,13
+Spain,ESP,2012,65
+Spain,ESP,2015,58
+Spain,ESP,2018,58
+Sri Lanka,LKA,2012,40
+Sri Lanka,LKA,2015,37
+Sri Lanka,LKA,2018,38
+Sudan,SDN,2012,13
+Sudan,SDN,2015,12
+Sudan,SDN,2018,16
+Suriname,SUR,2012,37
+Suriname,SUR,2015,36
+Suriname,SUR,2018,43
+Sweden,SWE,2012,88
+Sweden,SWE,2015,89
+Sweden,SWE,2018,85
+Switzerland,CHE,2012,86
+Switzerland,CHE,2015,86
+Switzerland,CHE,2018,85
+Syria,SYR,2012,26
+Syria,SYR,2015,18
+Syria,SYR,2018,13
+Taiwan,TWN,2012,61
+Taiwan,TWN,2015,62
+Taiwan,TWN,2018,63
+Tajikistan,TJK,2012,22
+Tajikistan,TJK,2015,26
+Tajikistan,TJK,2018,25
+Tanzania,TZA,2012,35
+Tanzania,TZA,2015,30
+Tanzania,TZA,2018,36
+Thailand,THA,2012,37
+Thailand,THA,2015,38
+Thailand,THA,2018,36
+Timor,TLS,2012,33
+Timor,TLS,2015,28
+Timor,TLS,2018,35
+Togo,TGO,2012,30
+Togo,TGO,2015,32
+Togo,TGO,2018,30
+Trinidad and Tobago,TTO,2012,39
+Trinidad and Tobago,TTO,2015,39
+Trinidad and Tobago,TTO,2018,41
+Tunisia,TUN,2012,41
+Tunisia,TUN,2015,38
+Tunisia,TUN,2018,43
+Turkey,TUR,2012,49
+Turkey,TUR,2015,42
+Turkey,TUR,2018,41
+Turkmenistan,TKM,2012,17
+Turkmenistan,TKM,2015,18
+Turkmenistan,TKM,2018,20
+Uganda,UGA,2012,29
+Uganda,UGA,2015,25
+Uganda,UGA,2018,26
+Ukraine,UKR,2012,26
+Ukraine,UKR,2015,27
+Ukraine,UKR,2018,32
+United Arab Emirates,ARE,2012,68
+United Arab Emirates,ARE,2015,70
+United Arab Emirates,ARE,2018,70
+United Kingdom,GBR,2012,74
+United Kingdom,GBR,2015,81
+United Kingdom,GBR,2018,80
+United States,USA,2012,73
+United States,USA,2015,76
+United States,USA,2018,71
+Uruguay,URY,2012,72
+Uruguay,URY,2015,74
+Uruguay,URY,2018,70
+Uzbekistan,UZB,2012,17
+Uzbekistan,UZB,2015,19
+Uzbekistan,UZB,2018,23
+Vanuatu,VUT,2018,46
+Venezuela,VEN,2012,19
+Venezuela,VEN,2015,17
+Venezuela,VEN,2018,18
+Vietnam,VNM,2012,31
+Vietnam,VNM,2015,31
+Vietnam,VNM,2018,33
+Yemen,YEM,2012,23
+Yemen,YEM,2015,18
+Yemen,YEM,2018,14
+Zambia,ZMB,2012,37
+Zambia,ZMB,2015,38
+Zambia,ZMB,2018,35
+Zimbabwe,ZWE,2012,20
+Zimbabwe,ZWE,2015,21
+Zimbabwe,ZWE,2018,22
